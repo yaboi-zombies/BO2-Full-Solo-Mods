@@ -10,7 +10,7 @@ Tranzit
     * While EMPing the Avogadro under the tower, only one turbine needs to be placed by the nav card table
     * Final step requires only one turbine underneath a lamp post
   - Tranzit-EE-Lightning-Always-at-Cornfield (https://github.com/yaboi-zombies/Tranzit-EE-Lightning-Always-at-Cornfield):
-    * Stops the thunderstorm from rotating so that it is always present over the cornfield (does not change when the Avogadro will spawn, but prevents the player from having to wait for the lightning to be overhead before ending the round)
+    * Stops the thunderstorm from rotating so that it is always present over the cornfield (does not change when the Avogadro will spawn, but prevents the player from having to wait for the lightning to be overhead before ending each round while waiting for the Avogadro to spawn)
   - NavTables-Always-Built (https://github.com/yaboi-zombies/NavTables-Always-Built):
     * Builds the nav card table for you if not already assembled
     

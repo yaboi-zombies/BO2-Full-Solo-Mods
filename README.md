@@ -1,5 +1,5 @@
 # BO2-Full-Solo-Mods
-One stop shop for BO2 solo mods. Place "zm" folder in the ".C:\Users\User\AppData\Local\Plutonium\storage\t6\scripts" folder. (Click on "Code" Download as zip to download)
+One stop shop for BO2 solo mods. Place "zm" folder in the ".C:\Users\User\AppData\Local\Plutonium\storage\t6\scripts" folder. (Click on "Code" --> "Download ZIP" to download)
 
 Inlcudes:
 

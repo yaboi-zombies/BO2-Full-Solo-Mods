@@ -15,10 +15,10 @@ Tranzit
     * Builds the nav card table for you if not already assembled
     
 Die Rise
-  - (Solo Maxis) Die-Rise-Maxis-EE-v2.0- by DaddyDontStop (https://github.com/DaddyDontStop/Die-Rise-Maxis-EE-v2.0-):
+  - (Solo Maxis) Die-Rise-Maxis-Solo-yaboi-Edit (https://github.com/yaboi-zombies/Die-Rise-Maxis-Solo-yaboi-Edit):
     * Any elevator symbol will complete the elevator symbol step
     * Number of symbols for the dragon symbol step will scale with the number of players, and does not reset when the wrong symbol is stepped on. Note that there is a correct order to step on the symbols (meaning in solo only one of the four symbols will light up when stepped on)
-    * During the orb step any player may pick up the orbs. Trample steams need to be placed at one of the pairs of lion symbols so that the orbs would fling between the two trample steams. Place both orbs on the same trample steam. Place the trample steams down a few times before placing them over the lion symbols. Step can be somewhat glitchy, but you'll know you have the trample steams set up correctly when you cannot pick up another. You may need to pick up and put back the orbs a time or two at the statues as well. Works if you're patient
+    * During the orb step any player may pick up the orbs. Trample steams need to be placed at one of the pairs of lion symbols so that the orbs would fling between the two trample steams. You will know you have placed the trample steam in a valid spot when you cannot pick it back up. Note: Don't worry if there is no "steam" coming from the trample steam when placed. If it is locked in place, you're fine. After placing a pair of trample steams on opposite lion symbols correctly you will be able to place an orb on each trample steam (if you have picked one up from the lion statues). Place one orb on each trample steam of the pair. Although the trample steam may not animate, you will be able to see the orb flying between the trample steams once placed
   - (Solo Richtofen) Highrise Solo by shyperson0 (https://github.com/shyperson0/highrise-solo/releases/tag/v1.0)
     * Any elevator symbol will complete the elevator symbol step
     * Number of symbols for the dragon symbol step will scale with the number of players, and does not reset when the wrong symbol is stepped on. Note that there is a correct order to step on the symbols (meaning in solo only one of the four symbols will light up when stepped on)

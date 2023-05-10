@@ -4,7 +4,7 @@ One stop shop for BO2 solo mods. Place "zm" folder in the ".C:\Users\User\AppDat
 Inlcudes:
 
 Tranzit
-  - Tranzit-Richtofen-EE-Two-EMPs (haven't uploaded yet, but by me): 
+  - Tranzit-Richtofen-EE-Two-EMPs (https://github.com/yaboi-zombies/Tranzit-Richtofen-EE-Two-EMPs): 
     * Changes the final step of the easter egg to only require two lamp posts to be EMPed
   - Tranzit-Maxis-EE-Solo, by CCDeroga (https://github.com/CCDeroga/Tranzit-Maxis-EE-Solo):
     * While EMPing the Avogadro under the tower, only one turbine needs to be placed by the nav card table

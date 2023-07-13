@@ -7,7 +7,7 @@ Tranzit
   - Tranzit-Richtofen-EE-Two-EMPs (https://github.com/yaboi-zombies/Tranzit-Richtofen-EE-Two-EMPs): 
     * Changes the final step of the easter egg to only require two lamp posts to be EMPed
   - Tranzit-Maxis-EE-Solo, by CCDeroga (https://github.com/CCDeroga/Tranzit-Maxis-EE-Solo):
-    * While EMPing the Avogadro under the tower, only one turbine needs to be placed by the nav card table
+    * While EMPing the Avogadro under the tower, only one turbine needs to be placed by the nav card table (some have reported issues with this step, if that's the case consider using my minor edit to CCDeroga's mod https://github.com/yaboi-zombies/Tranzit-Maxis-EE-Solo-Tweak)
     * Final step requires only one turbine underneath a lamp post
   - Tranzit-EE-Lightning-Always-at-Cornfield (https://github.com/yaboi-zombies/Tranzit-EE-Lightning-Always-at-Cornfield):
     * Stops the thunderstorm from rotating so that it is always present over the cornfield (does not change when the Avogadro will spawn, but prevents the player from having to wait for the lightning to be overhead before ending each round while waiting for the Avogadro to spawn)
